@@ -13,7 +13,7 @@
 [![](https://img.shields.io/twitter/follow/mmert_dogann?style=social)](https://www.twitter.com/mmert_dogann)
 [![](https://img.shields.io/github/followers/mmertdogann?style=social)](https://www.github.com/mmertdogann)
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8d5b5a68-8771-4527-9174-3df37cf645d7/deploy-status)](https://app.netlify.com/sites/mertdogan/deploys)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mmert_dogann)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mmertdogann)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmertdogann/)
