@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java & Scala
 - 👯 I’m looking to collaborate on open source Kafka projects
 - 💬 Ask me about anything 😄
-- ⚡ Fun fact: I love camping 🏕️ and travel ✈️🏕️
+- ⚡ Fun fact: I love camping 🏕️ and traveling ✈️ 🗺️
 
 [![](https://img.shields.io/twitter/follow/mmert_dogann?style=social)](https://www.twitter.com/mmert_dogann)
 [![](https://img.shields.io/github/followers/mmertdogann?style=social)](https://www.github.com/mmertdogann)
