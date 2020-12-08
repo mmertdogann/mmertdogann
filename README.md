@@ -4,6 +4,7 @@
 # Mert Doğan's GitHub
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmertdogann" alt="mertdogan" /> </p>
 
+
 - 🔭 I’m currently working at Trendyol as Software Engineer 💻
 - 🌱 I’m currently learning Java & Scala
 - 👯 I’m looking to collaborate on open source Apache Kafka projects
