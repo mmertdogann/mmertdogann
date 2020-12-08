@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mmertdogann&show_icons=true&theme=radical">
 
 # Hi there 👋
-# Mert Doğan's GitHub Profile
+# Mert Doğan's GitHub
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmertdogann" alt="mertdogan" /> </p>
 
 [![](https://img.shields.io/twitter/follow/mmert_dogann?style=social)](https://www.twitter.com/mmert_dogann)
