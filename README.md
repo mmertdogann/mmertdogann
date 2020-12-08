@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Trendyol as Software Engineer
 - 🌱 I’m currently learning Java & Scala
-- 👯 I’m looking to collaborate on open source Kafka projects
+- 👯 I’m looking to collaborate on open source Apache Kafka projects
 - 💬 Ask me about anything 😄
 - ⚡ Fun fact: I love camping 🏕️ and traveling ✈️ 🗺️
 
@@ -20,10 +20,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mmertdogann)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmertdogann/)
 [![Mail Badge](https://img.shields.io/badge/mm3rtdogann@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mm3rtdogann@gmail.com)](mailto:mm3rtdoganngmail.com)
-
-
-<!--
-**mmertdogann/mmertdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
