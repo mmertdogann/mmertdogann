@@ -17,7 +17,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=ai-news&theme=dracula)](https://github.com/mmertdogann/ai-news)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=github-finder&theme=onedark)](https://github.com/mmertdogann/github-finder)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&theme=radical)](https://github.com/mmertdogann/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left" width="20%"> <img src="https://komarev.com/ghpvc/?username=mmertdogann" alt="mertdogan" /> </p>
 
