@@ -9,6 +9,9 @@
 - ⚡ Fun fact: I love camping 🏕️ and traveling ✈️ 🗺️
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=mmertdogann&show_icons=true&theme=radical">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&theme=radical)](https://github.com/mmertdogann/github-readme-stats)
+
 <p align="left" width="20%"> <img src="https://komarev.com/ghpvc/?username=mmertdogann" alt="mertdogan" /> </p>
 
 [![](https://img.shields.io/twitter/follow/mmert_dogann?style=social)](https://www.twitter.com/mmert_dogann)
