@@ -10,6 +10,13 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=mmertdogann&show_icons=true&theme=radical">
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=Hunt-AI&theme=radical)](https://github.com/ChrisRM/material-theme-jetbrains)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=a-file-icon-idea&theme=nightowl)](https://github.com/mallowigi/a-file-icon-idea)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=mtslack&theme=dracula)](https://github.com/mallowigi/mtslack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=material-dev-tools&theme=tokyonight)](https://github.com/mallowigi/material-dev-tools)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=notifications-preview-github&theme=cobalt)](https://github.com/mallowigi/notifications-preview-github)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=a-file-icon-web&theme=onedark)](https://github.com/mallowigi/a-file-icon-web)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&theme=radical)](https://github.com/mmertdogann/github-readme-stats)
 
 <p align="left" width="20%"> <img src="https://komarev.com/ghpvc/?username=mmertdogann" alt="mertdogan" /> </p>
