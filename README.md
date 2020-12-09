@@ -10,12 +10,12 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=mmertdogann&show_icons=true&theme=radical">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=Hunt-AI&theme=radical)](https://github.com/ChrisRM/material-theme-jetbrains)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=a-file-icon-idea&theme=nightowl)](https://github.com/mallowigi/a-file-icon-idea)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=mtslack&theme=dracula)](https://github.com/mallowigi/mtslack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=material-dev-tools&theme=tokyonight)](https://github.com/mallowigi/material-dev-tools)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=notifications-preview-github&theme=cobalt)](https://github.com/mallowigi/notifications-preview-github)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=a-file-icon-web&theme=onedark)](https://github.com/mallowigi/a-file-icon-web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=Hunt-AI&theme=radical)](https://github.com/mmertdogann/Hunt-AI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=smart-brain&theme=nightowl)](https://github.com/mmertdogann/smart-brain)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=ai-news&theme=dracula)](https://github.com/mmertdogann/ai-news)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=coronapp&theme=tokyonight)](https://github.com/mmertdogann/coronapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=chat4fun&theme=cobalt)](https://github.com/mmertdogann/chat4fun)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=github-finder&theme=onedark)](https://github.com/mmertdogann/github-finder)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&theme=radical)](https://github.com/mmertdogann/github-readme-stats)
 
