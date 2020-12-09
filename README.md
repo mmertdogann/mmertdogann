@@ -1,7 +1,7 @@
 # Hi there 👋
 # Mert Doğan's GitHub
 
-- 🔭 I’m currently working at Trendyol as Software Engineer 💻
+- 🔭 I’m currently working at Trendyol as a Software Engineer 💻
 - 🌱 I’m currently learning Java & Scala
 - 👯 I’m looking to collaborate on open source Apache Kafka projects
 - 🏄‍♂️ My portfolio [![Netlify Status](https://api.netlify.com/api/v1/badges/8d5b5a68-8771-4527-9174-3df37cf645d7/deploy-status)](https://mertdogan.netlify.app/)
