@@ -15,7 +15,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=ai-news&theme=dracula)](https://github.com/mmertdogann/ai-news)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=coronapp&theme=tokyonight)](https://github.com/mmertdogann/coronapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=chat4fun&theme=cobalt)](https://github.com/mmertdogann/chat4fun)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=github-finder&theme=onedark)](https://github.com/mmertdogann/github-finder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=github-finder&theme=cobalt)](https://github.com/mmertdogann/github-finder)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&theme=radical)](https://github.com/mmertdogann/github-readme-stats)
 
