@@ -1,6 +1,6 @@
 # Hi there 👋
 # Mert Doğan's GitHub
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmertdogann" alt="mertdogan" /> </p>
+<p align="left" width="20%"> <img src="https://komarev.com/ghpvc/?username=mmertdogann" alt="mertdogan" /> </p>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mmertdogann&show_icons=true&theme=radical">
 
