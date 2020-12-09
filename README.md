@@ -11,8 +11,8 @@
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=mmertdogann&show_icons=true&theme=radical">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=Hunt-AI&theme=radical)](https://github.com/mmertdogann/Hunt-AI)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=smart-brain&theme=nightowl)](https://github.com/mmertdogann/smart-brain)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=ai-news&theme=dracula)](https://github.com/mmertdogann/ai-news)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=smart-brain&theme=nightowl)](https://github.com/mmertdogann/smart-brain)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=coronapp&theme=tokyonight)](https://github.com/mmertdogann/coronapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=chat4fun&theme=cobalt)](https://github.com/mmertdogann/chat4fun)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=github-finder&theme=onedark)](https://github.com/mmertdogann/github-finder)
