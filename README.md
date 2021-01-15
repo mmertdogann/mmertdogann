@@ -8,7 +8,14 @@
 - 💬 Ask me about anything 😄
 - ⚡ Fun fact: I love camping 🏕️ and traveling ✈️ 🗺️
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=mmertdogann&show_icons=true&theme=radical">
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/mmertdogann">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmertdogann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmertdogann&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=Hunt-AI&theme=radical)](https://github.com/mmertdogann/Hunt-AI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=smart-brain&theme=nightowl)](https://github.com/mmertdogann/smart-brain)
@@ -16,6 +23,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=coronapp&theme=tokyonight)](https://github.com/mmertdogann/coronapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=ai-news&theme=dracula)](https://github.com/mmertdogann/ai-news)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=github-finder&theme=onedark)](https://github.com/mmertdogann/github-finder)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
