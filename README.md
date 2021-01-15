@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" width="50%>
   <a href="https://github.com/mmertdogann?tab=repositories">
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=Hunt-AI&theme=radical)](https://github.com/mmertdogann/Hunt-AI)
