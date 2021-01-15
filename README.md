@@ -15,8 +15,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmertdogann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmertdogann&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
-
+<p align="center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=Hunt-AI&theme=radical)](https://github.com/mmertdogann/Hunt-AI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=smart-brain&theme=nightowl)](https://github.com/mmertdogann/smart-brain)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=chat4fun&theme=cobalt)](https://github.com/mmertdogann/chat4fun)
