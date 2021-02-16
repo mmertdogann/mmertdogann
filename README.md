@@ -16,7 +16,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=spring)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
