@@ -32,10 +32,14 @@
 
 ### ⚙️  &nbsp;GitHub Analytics
 
-<p align="left" width="20%">
+<div align="left" width="20%" 
+  style="margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;">
     <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mmertdogann&count_private=true&show_icons=true&theme=dracula"/>
     <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mmertdogann&theme=dracula&layout=compact&langs_count=8" />
-</p>
+</div>
 
 
 <p align="center">
