@@ -30,8 +30,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<p>&nbsp;</p>
-
 ### ⚙️  &nbsp;GitHub Analytics
 
 <p align="left" width="20%">
@@ -39,7 +37,6 @@
     <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mmertdogann&theme=dracula&layout=compact&langs_count=8" />
 </p>
 
-<p>&nbsp;</p>
 
 <p align="center">
   <a href="https://github.com/mmertdogann?tab=repositories">
