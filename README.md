@@ -34,16 +34,10 @@
 
 ### GitHub Analytics
 
-<table style="margin-top:30px; border:0px;" class="mt-4">
-    <tr>
-        <td align="center">
-            <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mmertdogann&count_private=true&show_icons=true&theme=dracula"/>
-        </td>
-        <td align="center">
-            <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mmertdogann&theme=dracula&layout=compact&langs_count=8" />
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mmertdogann&count_private=true&show_icons=true&theme=dracula"/>
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mmertdogann&theme=dracula&layout=compact&langs_count=8" />
+</p>
 
 <p>&nbsp;</p>
 
