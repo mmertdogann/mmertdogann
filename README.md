@@ -30,14 +30,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<p>&nbsp;</p>
 
-<p>
-     <img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
-    <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=mmertdogann&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmertdogann&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)"/>
-  </a>
-</p>
+### GitHub Analytics
+
+<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mmertdogann&count_private=true&show_icons=true&theme=dracula"/>
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mmertdogann&theme=dracula&layout=compact&langs_count=8" />
+        </td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
 
 <p align="center">
   <a href="https://github.com/mmertdogann?tab=repositories">
