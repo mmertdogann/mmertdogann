@@ -34,7 +34,7 @@
 
 ### GitHub Analytics
 
-<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
+<table style="margin-top:30px; border:0px;" class="mt-4">
     <tr>
         <td align="center">
             <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mmertdogann&count_private=true&show_icons=true&theme=dracula"/>
