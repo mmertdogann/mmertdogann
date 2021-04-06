@@ -32,9 +32,9 @@
 
 <p>&nbsp;</p>
 
-### GitHub Analytics
+### ⚙️  &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="center" style="margin= auto;">
     <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mmertdogann&count_private=true&show_icons=true&theme=dracula"/>
     <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mmertdogann&theme=dracula&layout=compact&langs_count=8" />
 </p>
