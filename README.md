@@ -2,6 +2,7 @@
 # Mert Doğan's GitHub
 
 - 🌱 I’m currently expanding my knowledge about being a better Software Engineer.
+- 👨‍💻 Associate DevOps Engineer at SAP
 - 🏄‍♂️ My portfolio [![Netlify Status](https://api.netlify.com/api/v1/badges/8d5b5a68-8771-4527-9174-3df37cf645d7/deploy-status)](https://mertdogan.netlify.app/)
 - 💬 Ask me about anything 😄
 - ⚡ Fun fact: I love camping 🏕️ and traveling ✈️ 🗺️
