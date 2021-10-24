@@ -35,7 +35,7 @@
 
 <p align="lef" width="20%">
     <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mmertdogann&count_private=true&show_icons=true&theme=dracula"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&&theme=dracula&layout=compact&langs_count=8"/>
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mmertdogann&theme=dracula&layout=compact&langs_count=8" />
 </p>
 
 
