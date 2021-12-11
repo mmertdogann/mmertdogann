@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-    <a href="#!">
-    <img alt="views" title="GitHub profile views" src="https://profile-counter.glitch.me/{mmertdogann}/count.svg"/></a>
+    <img alt="views" title="GitHub profile views" src="https://profile-counter.glitch.me/{mmertdogann}/count.svg"/>
 
 </p>
 
