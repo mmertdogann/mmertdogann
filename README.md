@@ -71,10 +71,8 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mmertdogann's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mmertdogann&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  <p align="center">👨‍💻 Currently working on #100DaysOfCode challenge. Checkout my Twitter account to see my progress</p>
 </p>
-
-> #### 👨‍💻 Currently working on [#100DaysOfCode](https://www.100daysofcode.com/) challenge. Checkout my [Twitter](https://www.twitter.com/mmert_dogann) account to see my progress
 
 ## 📊 Github stats
 
