@@ -18,7 +18,6 @@
 
 </p>
 
->#### 👨‍💻 Currently working on [#100DaysOfCode](https://www.100daysofcode.com/) challenge. Checkout my [Twitter](https://www.twitter.com/mmert_dogann) account to see my progress
 ## 📘 My top projects
 
 <p align="left">
@@ -88,3 +87,5 @@
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mmertdogann's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mmertdogann&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+> #### 👨‍💻 Currently working on [#100DaysOfCode](https://www.100daysofcode.com/) challenge. Checkout my [Twitter](https://www.twitter.com/mmert_dogann) account to see my progress
