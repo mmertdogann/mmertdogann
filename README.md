@@ -18,6 +18,7 @@
 
 </p>
 
+>#### 👨‍💻 Currently working on [#100DaysOfCode](https://www.100daysofcode.com/) challenge. Checkout my [Twitter](https://www.twitter.com/mmert_dogann) account to see my progress
 ## 📘 My top projects
 
 <p align="left">
