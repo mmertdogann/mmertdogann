@@ -22,11 +22,11 @@
 
 <p align="left">
   <a href="https://github.com/mmertdogann/k8s-node"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=k8s-node&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="k8s-node"></a>
-  <a href="https://github.com/mmertdogann/kubernetes-pod-scaler"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=kubernetes-pod-scaler&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="kubernetes-pod-scaler"></a>
+  <a href="https://github.com/mmertdogann/kubernetes-operator-pattern"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=kubernetes-operator-pattern&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="kubernetes-operator-pattern"></a>
+  <a href="https://github.com/mmertdogann/k8s-pod-manipulator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=k8s-pod-manipulator&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="k8s-pod-manipulator"></a>
   <a href="https://github.com/mmertdogann/aws-cdk-react"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=aws-cdk-react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="aws-cdk-react"></a>
   <a href="https://github.com/mmertdogann/coronapp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mmertdogann&repo=coronapp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronapp"></a>
   <a href="https://github.com/mmertdogann/ai-news"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=ai-news&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ai-news"></a>
-  <a href="https://github.com/mmertdogann/Hunt-AI"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=Hunt-AI&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="hunt-ai"></a>
  
 </p>
 
