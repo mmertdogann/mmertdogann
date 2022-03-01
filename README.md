@@ -74,7 +74,7 @@
   <p align="center">👨‍💻 Currently working on #100DaysOfCode challenge. Checkout my Twitter account to see my progress.</p>
 </p>
 
-## 📊 Github stats
+## 📊 GitHub stats
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
