@@ -13,11 +13,6 @@
 <a href = "mailto:mm3rtdoganngmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
 
-<p align="center">
-    <img alt="views" title="GitHub profile views" src="https://profile-counter.glitch.me/{mmertdogann}/count.svg"/>
-
-</p>
-
 ## 📘 My top projects
 
 <p align="left">
