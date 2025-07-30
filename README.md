@@ -59,16 +59,6 @@
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 </p>
 
-
-## 🔥 Streak stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mmertdogann's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mmertdogann&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">👨‍💻 Currently working on #100DaysOfCode challenge. Checkout my Twitter account to see my progress.</p>
-</p>
-
 ## 📊 GitHub stats
 
 <details> 
