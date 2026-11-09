@@ -13,21 +13,6 @@
 <a href = "mailto:mm3rtdoganngmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
 
-## 📘 My top projects
-
-<p align="left">
-  <a href="https://github.com/mmertdogann/kubernetes-podlogger"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=kubernetes-podlogger&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="kubernetes-podlogger"></a>
-  <a href="https://github.com/mmertdogann/kubernetes-operator-pattern"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=kubernetes-operator-pattern&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="kubernetes-operator-pattern"></a>
-  <a href="https://github.com/mmertdogann/k8s-node"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=k8s-node&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="k8s-node"></a>
-  <a href="https://github.com/mmertdogann/k8s-pod-manipulator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=k8s-pod-manipulator&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="k8s-pod-manipulator"></a>
-  <a href="https://github.com/mmertdogann/aws-cdk-react"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mmertdogann&repo=aws-cdk-react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="aws-cdk-react"></a>
-  <a href="https://github.com/mmertdogann/coronapp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mmertdogann&repo=coronapp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronapp"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/mmertdogann?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -49,8 +34,6 @@
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
@@ -58,15 +41,3 @@
     <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 </p>
-
-## 📊 GitHub stats
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mmertdogann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-<br/>
